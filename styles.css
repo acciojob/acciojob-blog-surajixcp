@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+ body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        marquee {
+            background-color: #f0f0f0;
+            padding: 10px;
+            font-size: 24px;
+        }
+        .article {
+            margin: 20px 0;
+        }
+        .article img {
+            height: 200px;
+            width: auto;
+        }
